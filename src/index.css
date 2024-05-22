@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Nanum+Gothic:wght@400;700;800&family=Nanum+Myeongjo:wght@400;700;800&display=swap');
+
+
+.site-content {
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 0;
+    padding: 20px;
+    box-sizing: border-box;
+    background-image: url(img/background_body.png);
+    background-size:cover;
+    background-position: top center;
+    font-family: "Nanum Gothic", sans-serif;
+    height: 4000px;
+    background-color: black;
+}
+
+@media screen and (max-width: 768px) {
+    .site-content {
+        background-size: cover;
+    }
+}
