@@ -67,6 +67,9 @@
 }
 
 @media screen and (max-width: 768px) {
+    .home_page {
+        height: 600px;
+    }
     .home_text {
         justify-content: center;
         text-align: right;

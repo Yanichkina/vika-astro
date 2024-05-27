@@ -4,6 +4,8 @@
    
     display: inline-block;
     justify-content: space-around;
+    margin-top: 0;
+    padding-top: 0;
     
     
 }
